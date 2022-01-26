@@ -4,7 +4,8 @@
   "description": "lib for string manipulation, primary function is detecting whether the first character of a word matches the following pattern: A-Z",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
