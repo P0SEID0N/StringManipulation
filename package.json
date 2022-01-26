@@ -1,0 +1,23 @@
+{
+  "name": "string-manipulation",
+  "version": "1.0.0",
+  "description": "lib for string manipulation, primary function is detecting whether the first character of a word matches the following pattern: A-Z",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P0SEID0N/StringManipulation.git"
+  },
+  "author": "Stephen Krieg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P0SEID0N/StringManipulation/issues"
+  },
+  "homepage": "https://github.com/P0SEID0N/StringManipulation#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
